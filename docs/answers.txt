@@ -1,0 +1,41 @@
+Brandon Batyski
+bmb17b
+
+10/8/2020 went through tutorials
+
+
+My github account was created roughly a year or two ago. 
+repository: https://github.com/the-millenial-falcon/assignment2
+You have been added as a collobarotar.
+
+
+1: [200~Brand@DESKTOP-0IP6GMS MINGW64 ~/assignment2/docs (master)
+$ git commit -m "commiting status.txt"
+[master fdf666e] commiting status.txt
+ 1 file changed, 7 insertions(+)
+  create mode 100644 docs/status.txt
+
+2: 6, git log
+
+3: October 8, 620 pm, git log ../README.md
+
+4: Branches are used to add new features to be merged later, or isolate part of the project to experiment with
+
+5: git log allows you to see the previous commits, git status shows the state of your working directory.
+
+6: git log Vehicle.h
+
+7: git log *file*
+
+8: Inheritance is spawning a child object off from a parent object that inherits some of its properties.
+polymorphism is the ability of an object to behave differntly based on different reference types.
+Encapsulation is the practice of adding methods such as getters and setters to work with an objects data so it "Handles itself".
+
+9: Both how a central(blessed) repository that only the integration manager or
+dictator can make chanages to, but the difference is that lieutenant directors
+can have multiple developers making changes to them in a dictator and
+lieutentant workflow, where as in the Integration Manager Workflow each
+developer has thier own private repository.
+
+10: Having 100 repositories might make version control for the project
+unecessarily convoluted.
